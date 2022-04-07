@@ -1,0 +1,29 @@
+﻿  Convolution.cpp
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\Convolution.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\Convolution.cpp(20,21): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\Convolution.cpp(32,28): warning C4018: '<': signed/unsigned mismatch
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\Convolution.cpp(33,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\Convolution.cpp(34,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\Convolution.cpp(37,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EdgeDetectors.cpp
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.h(12,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.h(15,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.h(16,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.cpp(48,80): warning C4305: 'initializing': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.cpp(49,80): warning C4305: 'initializing': truncation from 'double' to '_Tp'
+          with
+          [
+              _Tp=float
+          ]
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.cpp(170,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.h(12,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.h(15,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\Project2\EdgeDetectors.h(16,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating Code...
+  LINK : D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\x64\Debug\19127044.exe not found or not built by the last incremental link; performing full link
+  Project2.vcxproj -> D:\Downloads\TGMT\19127044_Lab02\19127044_Lab02\x64\Debug\19127044.exe
